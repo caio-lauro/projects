@@ -1,0 +1,2 @@
+# Projects
+This is a repository made for storing projects in all sorts of languages, published to show some of my projects used for (but not limited to) training, learning new stuff and creating codes that may be useful, interesting or fun.
